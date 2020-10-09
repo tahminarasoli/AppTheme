@@ -21,7 +21,7 @@ This is a soft and lovely theme with some gorgeous customizable icons oriented f
 
 ## 0. Set-Up
 
-[repository and live demo](https://rago89.github.io/app-theme/.)
+[repository and live demo](https://tahminarasoli.github.io/AppTheme/index.html)
 
 ### Repo
 
